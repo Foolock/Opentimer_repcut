@@ -1,0 +1,21 @@
+*******************thread = 12, circuit: tv80*******************
+num_threads: 12
+original taskflow runtime: 4843
+num_threads: 12
+original taskflow runtime: 4549
+num_threads: 12
+original taskflow runtime: 4443
+num_threads: 12
+original taskflow runtime: 4535
+num_threads: 12
+original taskflow runtime: 4527
+num_threads: 12
+original taskflow runtime: 4457
+num_threads: 12
+original taskflow runtime: 4509
+num_threads: 12
+original taskflow runtime: 4452
+num_threads: 12
+original taskflow runtime: 4528
+num_threads: 12
+original taskflow runtime: 4437

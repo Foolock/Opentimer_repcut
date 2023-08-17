@@ -1,0 +1,21 @@
+*******************thread = 17, circuit: vga_lcd*******************
+num_threads: 17
+original taskflow runtime: 329846
+num_threads: 17
+original taskflow runtime: 340104
+num_threads: 17
+original taskflow runtime: 339563
+num_threads: 17
+original taskflow runtime: 337813
+num_threads: 17
+original taskflow runtime: 336705
+num_threads: 17
+original taskflow runtime: 336110
+num_threads: 17
+original taskflow runtime: 336631
+num_threads: 17
+original taskflow runtime: 334414
+num_threads: 17
+original taskflow runtime: 331434
+num_threads: 17
+original taskflow runtime: 339213

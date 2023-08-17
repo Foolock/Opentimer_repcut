@@ -1,0 +1,21 @@
+*******************thread = 10, circuit: vga_lcd*******************
+num_threads: 20
+original tbb runtime: 370581
+num_threads: 20
+original tbb runtime: 360609
+num_threads: 20
+original tbb runtime: 360937
+num_threads: 20
+original tbb runtime: 365519
+num_threads: 20
+original tbb runtime: 366655
+num_threads: 20
+original tbb runtime: 364854
+num_threads: 20
+original tbb runtime: 368822
+num_threads: 20
+original tbb runtime: 357631
+num_threads: 20
+original tbb runtime: 364883
+num_threads: 20
+original tbb runtime: 364695

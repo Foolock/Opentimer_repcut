@@ -1,0 +1,21 @@
+*******************thread = 7, circuit: aes_core*******************
+num_threads: 7
+original taskflow runtime: 20586
+num_threads: 7
+original taskflow runtime: 20161
+num_threads: 7
+original taskflow runtime: 20379
+num_threads: 7
+original taskflow runtime: 20701
+num_threads: 7
+original taskflow runtime: 20460
+num_threads: 7
+original taskflow runtime: 20187
+num_threads: 7
+original taskflow runtime: 20270
+num_threads: 7
+original taskflow runtime: 20364
+num_threads: 7
+original taskflow runtime: 20388
+num_threads: 7
+original taskflow runtime: 20110

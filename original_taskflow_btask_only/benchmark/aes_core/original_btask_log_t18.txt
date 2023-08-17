@@ -1,0 +1,21 @@
+*******************thread = 18, circuit: aes_core*******************
+num_threads: 18
+original taskflow runtime: 19822
+num_threads: 18
+original taskflow runtime: 19781
+num_threads: 18
+original taskflow runtime: 19735
+num_threads: 18
+original taskflow runtime: 19820
+num_threads: 18
+original taskflow runtime: 19590
+num_threads: 18
+original taskflow runtime: 19746
+num_threads: 18
+original taskflow runtime: 19618
+num_threads: 18
+original taskflow runtime: 19781
+num_threads: 18
+original taskflow runtime: 19861
+num_threads: 18
+original taskflow runtime: 19638

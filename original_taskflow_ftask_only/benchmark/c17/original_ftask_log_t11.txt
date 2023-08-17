@@ -1,0 +1,21 @@
+*******************thread = 11, circuit: c17*******************
+num_threads: 11
+original taskflow runtime: 223
+num_threads: 11
+original taskflow runtime: 98
+num_threads: 11
+original taskflow runtime: 84
+num_threads: 11
+original taskflow runtime: 213
+num_threads: 11
+original taskflow runtime: 119
+num_threads: 11
+original taskflow runtime: 72
+num_threads: 11
+original taskflow runtime: 101
+num_threads: 11
+original taskflow runtime: 108
+num_threads: 11
+original taskflow runtime: 143
+num_threads: 11
+original taskflow runtime: 182

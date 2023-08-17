@@ -1,0 +1,21 @@
+*******************thread = 5, circuit: ac97_ctrl*******************
+num_threads: 5
+original taskflow runtime: 35788
+num_threads: 5
+original taskflow runtime: 35273
+num_threads: 5
+original taskflow runtime: 35525
+num_threads: 5
+original taskflow runtime: 35706
+num_threads: 5
+original taskflow runtime: 35379
+num_threads: 5
+original taskflow runtime: 35106
+num_threads: 5
+original taskflow runtime: 36049
+num_threads: 5
+original taskflow runtime: 34838
+num_threads: 5
+original taskflow runtime: 35353
+num_threads: 5
+original taskflow runtime: 35288

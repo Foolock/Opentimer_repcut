@@ -1,0 +1,161 @@
+*******************thread = 16, partition = 16, circuit: c17*******************
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 7
+cluster_runtime : 8
+partition_runtime : 3383
+process_cluster_runtime : 3
+partitioned_execution_tbb_runtime : 111
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 9
+cluster_runtime : 12
+partition_runtime : 2291
+process_cluster_runtime : 4
+partitioned_execution_tbb_runtime : 97
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 3
+cluster_runtime : 8
+partition_runtime : 12207
+process_cluster_runtime : 3
+partitioned_execution_tbb_runtime : 82
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 3
+cluster_runtime : 8
+partition_runtime : 2107
+process_cluster_runtime : 4
+partitioned_execution_tbb_runtime : 106
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 3
+cluster_runtime : 8
+partition_runtime : 2845
+process_cluster_runtime : 4
+partitioned_execution_tbb_runtime : 81
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 5
+cluster_runtime : 12
+partition_runtime : 5356
+process_cluster_runtime : 5
+partitioned_execution_tbb_runtime : 239
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 9
+cluster_runtime : 11
+partition_runtime : 2983
+process_cluster_runtime : 3
+partitioned_execution_tbb_runtime : 102
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 3
+cluster_runtime : 8
+partition_runtime : 21784
+process_cluster_runtime : 3
+partitioned_execution_tbb_runtime : 79
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 3
+cluster_runtime : 9
+partition_runtime : 2432
+process_cluster_runtime : 3
+partitioned_execution_tbb_runtime : 102
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 9
+number of ftotal tasks: 25
+ftask replication rate: 36%
+number of replication btasks: 0
+number of btotal tasks: 25
+btask replication rate: 0%
+_set_num_partition: 16
+_num_threads: 20
+build_cands_runtime : 3
+cluster_runtime : 8
+partition_runtime : 6719
+process_cluster_runtime : 3
+partitioned_execution_tbb_runtime : 80
+--------------------------------
+

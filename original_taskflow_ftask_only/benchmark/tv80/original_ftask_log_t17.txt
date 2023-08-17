@@ -1,0 +1,21 @@
+*******************thread = 17, circuit: tv80*******************
+num_threads: 17
+original taskflow runtime: 13441
+num_threads: 17
+original taskflow runtime: 14638
+num_threads: 17
+original taskflow runtime: 12734
+num_threads: 17
+original taskflow runtime: 22749
+num_threads: 17
+original taskflow runtime: 12555
+num_threads: 17
+original taskflow runtime: 16050
+num_threads: 17
+original taskflow runtime: 38657
+num_threads: 17
+original taskflow runtime: 12427
+num_threads: 17
+original taskflow runtime: 13545
+num_threads: 17
+original taskflow runtime: 12310

@@ -1,0 +1,21 @@
+*******************thread = 11, circuit: tv80*******************
+num_threads: 11
+original taskflow runtime: 12269
+num_threads: 11
+original taskflow runtime: 16861
+num_threads: 11
+original taskflow runtime: 16368
+num_threads: 11
+original taskflow runtime: 12207
+num_threads: 11
+original taskflow runtime: 16263
+num_threads: 11
+original taskflow runtime: 17612
+num_threads: 11
+original taskflow runtime: 17361
+num_threads: 11
+original taskflow runtime: 14331
+num_threads: 11
+original taskflow runtime: 12422
+num_threads: 11
+original taskflow runtime: 13468

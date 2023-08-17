@@ -1,0 +1,21 @@
+*******************thread = 9, circuit: vga_lcd*******************
+num_threads: 9
+original taskflow runtime: 324709
+num_threads: 9
+original taskflow runtime: 325149
+num_threads: 9
+original taskflow runtime: 328390
+num_threads: 9
+original taskflow runtime: 324134
+num_threads: 9
+original taskflow runtime: 325000
+num_threads: 9
+original taskflow runtime: 329512
+num_threads: 9
+original taskflow runtime: 327607
+num_threads: 9
+original taskflow runtime: 334723
+num_threads: 9
+original taskflow runtime: 327284
+num_threads: 9
+original taskflow runtime: 328597

@@ -1,0 +1,161 @@
+*******************thread = 9, partition = 9, circuit: vga_lcd*******************
+--------------------------------
+number of replication ftasks: 226352
+number of ftotal tasks: 397809
+ftask replication rate: 56.8997%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 116054
+cluster_runtime : 1850447
+partition_runtime : 3043322
+process_cluster_runtime : 256062
+partitioned_execution_tbb_runtime : 313780
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 229014
+number of ftotal tasks: 397809
+ftask replication rate: 57.5688%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 115522
+cluster_runtime : 1880162
+partition_runtime : 2881963
+process_cluster_runtime : 254915
+partitioned_execution_tbb_runtime : 298984
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 226200
+number of ftotal tasks: 397809
+ftask replication rate: 56.8615%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 115312
+cluster_runtime : 1897065
+partition_runtime : 3177926
+process_cluster_runtime : 282460
+partitioned_execution_tbb_runtime : 309352
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 228857
+number of ftotal tasks: 397809
+ftask replication rate: 57.5294%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 115148
+cluster_runtime : 1886016
+partition_runtime : 3199912
+process_cluster_runtime : 254403
+partitioned_execution_tbb_runtime : 305363
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 226353
+number of ftotal tasks: 397809
+ftask replication rate: 56.8999%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 115214
+cluster_runtime : 1865635
+partition_runtime : 3141209
+process_cluster_runtime : 255133
+partitioned_execution_tbb_runtime : 304282
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 234473
+number of ftotal tasks: 397809
+ftask replication rate: 58.9411%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 116227
+cluster_runtime : 1849817
+partition_runtime : 3155223
+process_cluster_runtime : 256959
+partitioned_execution_tbb_runtime : 305905
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 226226
+number of ftotal tasks: 397809
+ftask replication rate: 56.868%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 115433
+cluster_runtime : 1813670
+partition_runtime : 3035531
+process_cluster_runtime : 255476
+partitioned_execution_tbb_runtime : 313001
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 231690
+number of ftotal tasks: 397809
+ftask replication rate: 58.2415%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 116346
+cluster_runtime : 1816501
+partition_runtime : 3187628
+process_cluster_runtime : 256588
+partitioned_execution_tbb_runtime : 302585
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 234477
+number of ftotal tasks: 397809
+ftask replication rate: 58.9421%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 115826
+cluster_runtime : 1812825
+partition_runtime : 3425683
+process_cluster_runtime : 255261
+partitioned_execution_tbb_runtime : 308320
+--------------------------------
+
+--------------------------------
+number of replication ftasks: 231619
+number of ftotal tasks: 397809
+ftask replication rate: 58.2237%
+number of replication btasks: 0
+number of btotal tasks: 397809
+btask replication rate: 0%
+_set_num_partition: 9
+_num_threads: 20
+build_cands_runtime : 117429
+cluster_runtime : 1913697
+partition_runtime : 3282782
+process_cluster_runtime : 284970
+partitioned_execution_tbb_runtime : 312863
+--------------------------------
+

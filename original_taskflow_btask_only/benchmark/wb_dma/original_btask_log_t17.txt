@@ -1,0 +1,21 @@
+*******************thread = 17, circuit: wb_dma*******************
+num_threads: 17
+original taskflow runtime: 3566
+num_threads: 17
+original taskflow runtime: 3206
+num_threads: 17
+original taskflow runtime: 3393
+num_threads: 17
+original taskflow runtime: 3298
+num_threads: 17
+original taskflow runtime: 3200
+num_threads: 17
+original taskflow runtime: 3170
+num_threads: 17
+original taskflow runtime: 3373
+num_threads: 17
+original taskflow runtime: 3299
+num_threads: 17
+original taskflow runtime: 3233
+num_threads: 17
+original taskflow runtime: 3198

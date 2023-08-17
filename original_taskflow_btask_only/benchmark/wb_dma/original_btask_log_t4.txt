@@ -1,0 +1,21 @@
+*******************thread = 4, circuit: wb_dma*******************
+num_threads: 4
+original taskflow runtime: 3619
+num_threads: 4
+original taskflow runtime: 3369
+num_threads: 4
+original taskflow runtime: 3808
+num_threads: 4
+original taskflow runtime: 3545
+num_threads: 4
+original taskflow runtime: 3289
+num_threads: 4
+original taskflow runtime: 3383
+num_threads: 4
+original taskflow runtime: 3365
+num_threads: 4
+original taskflow runtime: 3385
+num_threads: 4
+original taskflow runtime: 3405
+num_threads: 4
+original taskflow runtime: 3314

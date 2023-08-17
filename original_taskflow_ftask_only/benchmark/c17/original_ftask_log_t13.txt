@@ -1,0 +1,21 @@
+*******************thread = 13, circuit: c17*******************
+num_threads: 13
+original taskflow runtime: 192
+num_threads: 13
+original taskflow runtime: 160
+num_threads: 13
+original taskflow runtime: 120
+num_threads: 13
+original taskflow runtime: 151
+num_threads: 13
+original taskflow runtime: 118
+num_threads: 13
+original taskflow runtime: 149
+num_threads: 13
+original taskflow runtime: 114
+num_threads: 13
+original taskflow runtime: 166
+num_threads: 13
+original taskflow runtime: 176
+num_threads: 13
+original taskflow runtime: 69

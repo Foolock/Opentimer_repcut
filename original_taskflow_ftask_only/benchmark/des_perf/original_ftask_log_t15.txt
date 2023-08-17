@@ -1,0 +1,21 @@
+*******************thread = 15, circuit: des_perf*******************
+num_threads: 15
+original taskflow runtime: 265139
+num_threads: 15
+original taskflow runtime: 268475
+num_threads: 15
+original taskflow runtime: 260783
+num_threads: 15
+original taskflow runtime: 260950
+num_threads: 15
+original taskflow runtime: 266677
+num_threads: 15
+original taskflow runtime: 267221
+num_threads: 15
+original taskflow runtime: 265425
+num_threads: 15
+original taskflow runtime: 261286
+num_threads: 15
+original taskflow runtime: 260555
+num_threads: 15
+original taskflow runtime: 263182

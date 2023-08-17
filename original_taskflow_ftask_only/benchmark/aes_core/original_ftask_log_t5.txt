@@ -1,0 +1,21 @@
+*******************thread = 5, circuit: aes_core*******************
+num_threads: 5
+original taskflow runtime: 66807
+num_threads: 5
+original taskflow runtime: 68843
+num_threads: 5
+original taskflow runtime: 65166
+num_threads: 5
+original taskflow runtime: 64954
+num_threads: 5
+original taskflow runtime: 66049
+num_threads: 5
+original taskflow runtime: 66558
+num_threads: 5
+original taskflow runtime: 66554
+num_threads: 5
+original taskflow runtime: 66210
+num_threads: 5
+original taskflow runtime: 66983
+num_threads: 5
+original taskflow runtime: 66173

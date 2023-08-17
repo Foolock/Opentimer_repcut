@@ -1,0 +1,21 @@
+*******************thread = 2, circuit: c17*******************
+num_threads: 2
+original taskflow runtime: 176
+num_threads: 2
+original taskflow runtime: 148
+num_threads: 2
+original taskflow runtime: 193
+num_threads: 2
+original taskflow runtime: 154
+num_threads: 2
+original taskflow runtime: 186
+num_threads: 2
+original taskflow runtime: 112
+num_threads: 2
+original taskflow runtime: 185
+num_threads: 2
+original taskflow runtime: 74
+num_threads: 2
+original taskflow runtime: 110
+num_threads: 2
+original taskflow runtime: 120

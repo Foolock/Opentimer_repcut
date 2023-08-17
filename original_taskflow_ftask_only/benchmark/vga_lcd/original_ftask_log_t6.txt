@@ -1,0 +1,21 @@
+*******************thread = 6, circuit: vga_lcd*******************
+num_threads: 6
+original taskflow runtime: 331604
+num_threads: 6
+original taskflow runtime: 336047
+num_threads: 6
+original taskflow runtime: 336380
+num_threads: 6
+original taskflow runtime: 336852
+num_threads: 6
+original taskflow runtime: 333241
+num_threads: 6
+original taskflow runtime: 339287
+num_threads: 6
+original taskflow runtime: 332243
+num_threads: 6
+original taskflow runtime: 338282
+num_threads: 6
+original taskflow runtime: 327037
+num_threads: 6
+original taskflow runtime: 337297

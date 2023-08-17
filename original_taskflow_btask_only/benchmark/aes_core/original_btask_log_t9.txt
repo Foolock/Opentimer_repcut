@@ -1,0 +1,21 @@
+*******************thread = 9, circuit: aes_core*******************
+num_threads: 9
+original taskflow runtime: 20286
+num_threads: 9
+original taskflow runtime: 20337
+num_threads: 9
+original taskflow runtime: 19965
+num_threads: 9
+original taskflow runtime: 20023
+num_threads: 9
+original taskflow runtime: 19885
+num_threads: 9
+original taskflow runtime: 20198
+num_threads: 9
+original taskflow runtime: 19868
+num_threads: 9
+original taskflow runtime: 20056
+num_threads: 9
+original taskflow runtime: 19995
+num_threads: 9
+original taskflow runtime: 19896

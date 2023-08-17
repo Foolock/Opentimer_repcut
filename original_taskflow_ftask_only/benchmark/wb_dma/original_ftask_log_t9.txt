@@ -1,0 +1,21 @@
+*******************thread = 9, circuit: wb_dma*******************
+num_threads: 9
+original taskflow runtime: 10523
+num_threads: 9
+original taskflow runtime: 13736
+num_threads: 9
+original taskflow runtime: 21270
+num_threads: 9
+original taskflow runtime: 11794
+num_threads: 9
+original taskflow runtime: 10754
+num_threads: 9
+original taskflow runtime: 14115
+num_threads: 9
+original taskflow runtime: 10824
+num_threads: 9
+original taskflow runtime: 12250
+num_threads: 9
+original taskflow runtime: 19368
+num_threads: 9
+original taskflow runtime: 10104

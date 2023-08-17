@@ -1,0 +1,21 @@
+*******************thread = 18, circuit: des_perf*******************
+num_threads: 18
+original taskflow runtime: 259594
+num_threads: 18
+original taskflow runtime: 272441
+num_threads: 18
+original taskflow runtime: 261223
+num_threads: 18
+original taskflow runtime: 265056
+num_threads: 18
+original taskflow runtime: 260874
+num_threads: 18
+original taskflow runtime: 260899
+num_threads: 18
+original taskflow runtime: 265392
+num_threads: 18
+original taskflow runtime: 265814
+num_threads: 18
+original taskflow runtime: 264889
+num_threads: 18
+original taskflow runtime: 266726

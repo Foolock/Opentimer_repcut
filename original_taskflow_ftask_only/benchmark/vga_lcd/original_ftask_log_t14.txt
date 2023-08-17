@@ -1,0 +1,21 @@
+*******************thread = 14, circuit: vga_lcd*******************
+num_threads: 14
+original taskflow runtime: 337504
+num_threads: 14
+original taskflow runtime: 336430
+num_threads: 14
+original taskflow runtime: 343082
+num_threads: 14
+original taskflow runtime: 334148
+num_threads: 14
+original taskflow runtime: 334004
+num_threads: 14
+original taskflow runtime: 338481
+num_threads: 14
+original taskflow runtime: 337244
+num_threads: 14
+original taskflow runtime: 337611
+num_threads: 14
+original taskflow runtime: 349706
+num_threads: 14
+original taskflow runtime: 340332

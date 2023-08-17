@@ -1,0 +1,21 @@
+*******************thread = 9, circuit: tv80*******************
+num_threads: 9
+original taskflow runtime: 4642
+num_threads: 9
+original taskflow runtime: 4623
+num_threads: 9
+original taskflow runtime: 4445
+num_threads: 9
+original taskflow runtime: 4636
+num_threads: 9
+original taskflow runtime: 4458
+num_threads: 9
+original taskflow runtime: 4569
+num_threads: 9
+original taskflow runtime: 4454
+num_threads: 9
+original taskflow runtime: 4490
+num_threads: 9
+original taskflow runtime: 4621
+num_threads: 9
+original taskflow runtime: 4584

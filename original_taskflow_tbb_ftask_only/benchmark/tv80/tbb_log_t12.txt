@@ -1,0 +1,21 @@
+*******************thread = 12, circuit: tv80*******************
+num_threads: 20
+original tbb runtime: 20761
+num_threads: 20
+original tbb runtime: 18099
+num_threads: 20
+original tbb runtime: 35749
+num_threads: 20
+original tbb runtime: 16621
+num_threads: 20
+original tbb runtime: 30091
+num_threads: 20
+original tbb runtime: 17973
+num_threads: 20
+original tbb runtime: 24799
+num_threads: 20
+original tbb runtime: 36147
+num_threads: 20
+original tbb runtime: 16401
+num_threads: 20
+original tbb runtime: 19271
